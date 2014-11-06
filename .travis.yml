@@ -1,5 +1,13 @@
 language: ruby
 rvm:
-  - 2.0.0
-  - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+- 2.0.0
+before_install:
+- openssl aes-256-cbc -K $encrypted_cfce599ba643_key -iv $encrypted_cfce599ba643_iv -in deploystuff/deploy_key.enc -out deploy_key -d
+- chmod 600 deploy-key
+- cp deploy-key ~/.ssh/id_rsa
+- cp deploystuff/known_hosts ~/.ssh/
+script:
+- bundle exec rake generate
+- bundle exec rake deploy
+after_success:
+- echo Uploaded!
