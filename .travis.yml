@@ -4,7 +4,7 @@ rvm:
 before_install:
 - openssl aes-256-cbc -K $encrypted_cfce599ba643_key -iv $encrypted_cfce599ba643_iv -in deploystuff/deploy_key.enc -out deploy_key -d
 - chmod 600 deploy_key
-- cp deploy-key ~/.ssh/id_rsa
+- cp deploy_key ~/.ssh/id_rsa
 - cp deploystuff/known_hosts ~/.ssh/
 script:
 - bundle exec rake generate
