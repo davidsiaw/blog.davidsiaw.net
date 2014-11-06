@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Tokyo Day 1"
+date: 2014-02-08 18:10:18 +0900
+comments: true
+categories: 
+- English
+- Random
+tags:
+- snow
+- 7-eleven
+- bandai
+- asakusa
+- kuramae
+- shrines
+- shibuya
+- ginza
+- suzuran
+- street
+---
+
+{% img /images/2014/02/tokyo-day-1-1.jpg 500 312 7-eleven %}
+
+I woke up today to a very very snowy day. It started snowing in the morning, and by the time I got out the snow has started to pile up quite a bit. It was very dry and powdery and seemed great for snowboarding, except its mostly flat here in Tokyo. So I went out for a little walk in my short pants and jacket. Its a good thing the snow happened on a Saturday, otherwise it wouldve been horrible to be cycling to work on a cold wet bicycle seat.
+
+<!--more-->
+
+{% img /images/2014/02/tokyo-day-1-2.jpg 500 312 Kuramae Shrine %}
+
+As I stepped out I got to Kuramae Shrine and found other people beating me to breaking in the virgin, pristine snow. That hat has ears! The snow really covered a lot of the sidewalk and most of the inside roads. There were even blocks put up by the local council to stop cars from taking routes where the snow was dangerously heavy.
+
+{% img /images/2014/02/tokyo-day-1-3.jpg 500 312 Bandai Statues %}
+
+I also managed to make my way to the Bandai headquarters where a lot of little nice statues of cartoon characters I admired during childhood were enjoying the snow outside with me. 
+
+{% img /images/2014/02/tokyo-day-1-4.jpg 500 312 Bandai Doraemon %}
+
+Doraemon was enjoying the snow too. Look at his happy face. Ultraman is also standing satisfied that the snow has discouraged monsters from invading the most flammable and explosive city in the world.
+
+{% img /images/2014/02/tokyo-day-1-5.jpg 500 312 Shrine %}
+
+Here is another shrine further down Asakusadoori where the snow covered leaves add a really nice touch to the nice little religious artifacts held there.
+
+{% img /images/2014/02/tokyo-day-1-6.jpg 500 312 Gas Station %}
+
+One of the things about snow in Tokyo is that it doesn't happen very often, so the transportation system is never really prepared for it. While a lot of the intracity trains continue to run, the bullet trains are experiencing delays of up to an hour. A lot of vehicles are then fitted with snow chains to prevent slipping forward, instead of using snow tyres.
+
+{% img /images/2014/02/tokyo-day-1-01.jpg 500 312 Ginza %}
+
+Despite the difficulties posed by the snow, people don't seem to be deterred from doing their expensive shopping. There were quite a number of people in Ginza who constantly bumped into me from behind when I suddenly stopped.
+
+{% img /images/2014/02/tokyo-day-1-02.jpg 500 312 Ginza Alley %}
+
+A lot of the shops were open too. The snow doesn't seem to stop people from keeping their business open. I guess that's Japanese consistency for you. Countless footprints litter the sidewalks and a lot of shops try to shovel the ice out every once in a while to prevent it from becoming too thick and icing up.
+
+{% img /images/2014/02/tokyo-day-1-03.jpg 500 312 Suzuran Street %}
+
+There even are people who are just out in the snow for the snow!
+
+{% img /images/2014/02/tokyo-day-1-04.jpg 500 312 Hachiko %}
+
+Here is a sight from just outside the Hachiko gate. Shibuya continues to be as busy as ever despite the heavy snow flying in the face of everyone trying to walk north. A lot of people hide away from the snow under the roofs of shopping complexes before crossing the road.
+
+{% img /images/2014/02/tokyo-day-1-05.jpg 500 312 0101 %}
+
+Since Shibuya is around hilly area, a lot of slopes become very dangerous to walk on, and a lot of people slip. Lots of ambulances were also rushing around, driving home the impact the snow actually has on people here.
+
+{% img /images/2014/02/tokyo-day-1-06.jpg 500 312 Hachiko %}
+
+This is a picture from the train station building above the crossing, and you can see nothing really changes in the snow.
